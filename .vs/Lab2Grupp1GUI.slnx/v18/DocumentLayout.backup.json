@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\databas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:databas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\kompendium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:kompendium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\kursbok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:kursbok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\aff\u00E4r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:aff\u00E4r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\annons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:annons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\administrat\u00F6r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:administrat\u00F6r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\anv\u00E4ndare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:anv\u00E4ndare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\digitalresurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:digitalresurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\annonsstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:annonsstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|c:\\users\\helen\\source\\repos\\lab2grupp1gui\\annonsskick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50583F-E802-DCD1-88A2-7BC6DE5980EA}|Lab2Grupp1GUI.csproj|solutionrelative:annonsskick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A263ADF6-A3AF-4149-97EE-EF9C3375C147}|Lab2Grupp1GUI.csproj|C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A263ADF6-A3AF-4149-97EE-EF9C3375C147}|Lab2Grupp1GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Databas.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Databas.cs",
+              "RelativeDocumentMoniker": "Databas.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Databas.cs",
+              "RelativeToolTip": "Databas.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:15:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAMoBAAAAaKK0N8gkwN0BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:18:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\ReservationsController.cs",
+              "RelativeToolTip": "ReservationsController.cs",
+              "ViewState": "AgIAAF8AAAAA7A7UKVcpwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:15:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Anv\u00E4ndare.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Anv\u00E4ndare.cs",
+              "RelativeDocumentMoniker": "Anv\u00E4ndare.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Anv\u00E4ndare.cs",
+              "RelativeToolTip": "Anv\u00E4ndare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:09.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrat\u00F6r.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Administrat\u00F6r.cs",
+              "RelativeDocumentMoniker": "Administrat\u00F6r.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Administrat\u00F6r.cs",
+              "RelativeToolTip": "Administrat\u00F6r.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:51.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Annons.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Annons.cs",
+              "RelativeDocumentMoniker": "Annons.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Annons.cs",
+              "RelativeToolTip": "Annons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:13:55.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aff\u00E4r.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Aff\u00E4r.cs",
+              "RelativeDocumentMoniker": "Aff\u00E4r.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Aff\u00E4r.cs",
+              "RelativeToolTip": "Aff\u00E4r.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:15:00.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kursbok.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Kursbok.cs",
+              "RelativeDocumentMoniker": "Kursbok.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Kursbok.cs",
+              "RelativeToolTip": "Kursbok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:29:19.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kurs.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Kurs.cs",
+              "RelativeDocumentMoniker": "Kurs.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Kurs.cs",
+              "RelativeToolTip": "Kurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:13:12.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kompendium.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Kompendium.cs",
+              "RelativeDocumentMoniker": "Kompendium.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Kompendium.cs",
+              "RelativeToolTip": "Kompendium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:14:19.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DigitalResurs.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\DigitalResurs.cs",
+              "RelativeDocumentMoniker": "DigitalResurs.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\DigitalResurs.cs",
+              "RelativeToolTip": "DigitalResurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:14:37.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnnonsStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\AnnonsStatus.cs",
+              "RelativeDocumentMoniker": "AnnonsStatus.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\AnnonsStatus.cs",
+              "RelativeToolTip": "AnnonsStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:11:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnnonsSkick.cs",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\AnnonsSkick.cs",
+              "RelativeDocumentMoniker": "AnnonsSkick.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\AnnonsSkick.cs",
+              "RelativeToolTip": "AnnonsSkick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:11:36.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Helen\\source\\repos\\Lab2Grupp1GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:08:54.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

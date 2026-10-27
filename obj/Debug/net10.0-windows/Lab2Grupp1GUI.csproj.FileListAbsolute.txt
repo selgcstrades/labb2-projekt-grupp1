@@ -1,0 +1,17 @@
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\bin\Debug\net10.0-windows\Lab2Grupp1GUI.exe
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\bin\Debug\net10.0-windows\Lab2Grupp1GUI.deps.json
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\bin\Debug\net10.0-windows\Lab2Grupp1GUI.runtimeconfig.json
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\bin\Debug\net10.0-windows\Lab2Grupp1GUI.dll
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\bin\Debug\net10.0-windows\Lab2Grupp1GUI.pdb
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.Form1.resources
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.csproj.GenerateResource.cache
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.AssemblyInfoInputs.cache
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.AssemblyInfo.cs
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.csproj.CoreCompileInputs.cache
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.dll
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\refint\Lab2Grupp1GUI.dll
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.pdb
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grupp1GUI.genruntimeconfig.cache
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\ref\Lab2Grupp1GUI.dll
+C:\Users\Helen\source\repos\Lab2Grupp1GUI\obj\Debug\net10.0-windows\Lab2Grup.737A3D6F.Up2Date
